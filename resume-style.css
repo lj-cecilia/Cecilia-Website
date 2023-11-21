@@ -32,6 +32,11 @@
     display: block;
     margin-left: 30%;
   }
+
+  #teachAR {
+    width: 260px;
+    padding: 20px;
+  }
   
   /* Ensure text does not wrap around the images */
   h1 {
